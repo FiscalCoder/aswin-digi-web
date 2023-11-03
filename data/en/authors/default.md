@@ -21,7 +21,7 @@ I started this blog as a way to document and share the things I have learned and
 Writing and noting things down is a great way for me to solidify my understanding of new concepts and technologies,
 and I hope that my blog can be a helpful resource for others who are interested in web development, eCommerce, and related technologies.
 
-I would be highly appreciated if you could leave your comments and thoughts on what I have written <Twemoji emoji="clinking-beer-mugs" />.
+I would be highly appreciated if you could leave your comments and thoughts on what I have written.
 
 ## Tech stack
 
