@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: main
-  repo: FiscalCoder/bharghav.dev
+  repo: FiscalCoder/aswin-digi-web
 
 media_folder: "public/static/images" # Media files will be stored under public/static
 public_folder: "/static/images"     # The src attribute for uploaded media will start with /static
