@@ -34,10 +34,10 @@ export let commentConfig = {
   provider: 'giscus', // 'giscus' | 'utterances' | 'disqus',
   // https://giscus.app/
   giscusConfig: {
-    repo: 'FiscalCoder/bharghav.dev', // process.env.GISCUS_REPO
-    repositoryId: 'R_kgDOKUxTiA', // process.env.GISCUS_REPOSITORY_ID
+    repo: 'FiscalCoder/aswin-digi-web', // process.env.GISCUS_REPO
+    repositoryId: '714046485', // process.env.GISCUS_REPOSITORY_ID
     category: 'General', // process.env.GISCUS_CATEGORY
-    categoryId: 'DIC_kwDOKUxTiM4CZZ2n', // process.env.GISCUS_CATEGORY_ID
+    categoryId: '2', // process.env.GISCUS_CATEGORY_ID
     mapping: 'title',
     reactions: '1',
     metadata: '0',
