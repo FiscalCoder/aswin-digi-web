@@ -10,7 +10,6 @@ email: saswin1199@gmail.com
 I am a Digital Marketer and an MBA working towards building the brands to reach their dreams.
 Every Brand has a Story to tell and being a Digital Marketer it is my speciality to tell those story.
 
-
 I specialize in running Ads campaigns for both Google and Meta, i also have experience in handling social media pages through videos, reels and graphic posters as well as content writing.
 
 See more about my working experiences on [my resume](/resume) page.
@@ -21,8 +20,10 @@ See more about my working experiences on [my resume](/resume) page.
 
 I started this blog as a way to document and share the things I have learned and found useful in my journey as a Digital Marketer.
 
-Writing and noting things down is a great way for me to solidify my understanding of new concepts and technologies,
-and I hope that my blog can be a helpful resource for others who are interested in web development, eCommerce, and related technologies.
+Writing and noting things down is a great way for me to solidify my understanding of new concepts and practical usage of AI Tools. I am also sharing my experiences of working with different clients and different projects where i am providing my Digital Marketing Consultation Service.
+
+
+I hope that my blog can be a helpful resource for others who are interested in Digital Marketing, Branding and Storytelling.
 
 I would be highly appreciated if you could leave your comments and thoughts on what I have written.
 
