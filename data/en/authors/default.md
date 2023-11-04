@@ -8,8 +8,12 @@ email: saswin1199@gmail.com
 ## Hi I'm Aswin Sivasubramaniam
 
 I am a Digital Marketer and an MBA working towards building the brands to reach their dreams.
-Every Brand has a Story to tell and being a Digital Marketer it is my speciality to tell those story.
+Every Brand has a Story to tell and being a Digital Marketer it is my speciality to tell those story.\
+\
+I embarked on an exciting transition from Finance into the world of Digital Marketing through sheer will and passion towards brand development. 
 
+I am equipped with strong foundation in Paid Media Marketing and Social Media Marketing  as well as Media Reporting .\
+\
 I specialize in running Ads campaigns for both Google and Meta, i also have experience in handling social media pages through videos, reels and graphic posters as well as content writing.
 
 See more about my working experiences on [my resume](/resume) page.
