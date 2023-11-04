@@ -16,12 +16,11 @@ See more about my working experiences on [my resume](/resume) page.
 
 ## Why have this blog?
 
-> Because sharing is learning
+## **Because sharing is learning**
 
 I started this blog as a way to document and share the things I have learned and found useful in my journey as a Digital Marketer.
 
 Writing and noting things down is a great way for me to solidify my understanding of new concepts and practical usage of AI Tools. I am also sharing my experiences of working with different clients and different projects where i am providing my Digital Marketing Consultation Service.
-
 
 I hope that my blog can be a helpful resource for others who are interested in Digital Marketing, Branding and Storytelling.
 
