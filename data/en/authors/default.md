@@ -1,7 +1,7 @@
 ---
 layout: AuthorLayout
 name: Bharghav
-avatar: /static/images/logo.jpeg
+avatar: public/static/images/img_20230219_074219.jpg
 occupation: Digital Marketer
 email: saswin1199@gmail.com
 ---
