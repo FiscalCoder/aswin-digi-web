@@ -1,182 +1,47 @@
 ---
-title: 'Micro Frontends – Revolutionizing Front-end Development with Microservices'
-date: '2022-10-25'
-tags: ['react', 'micro-frontend', 'webpack', 'shadow-dom', 'web-components']
+title: "Navigating the Digital Wave: Transforming Tourism with Strategic Marketing ✈️"
+date: "'2023-12-14'"
+tags: []
 draft: false
-summary: 'Discover how I leveraged Micro Frontends to transform frontend development, enhancing scalability, collaboration, and efficient code reuse.'
-images: ['/static/images/mac-pro.jpg']
-authors: ['default']
+summary: "\n"
+images:
+  - https://media.licdn.com/dms/image/D5612AQHRzKcMCF6FUw/article-cover_image-shrink_720_1280/0/1697824672572?e=1707955200&v=beta&t=ezFTO0dGaPNLBm08v40ik_ZdR4gGxUj7EKXUs4GrcSY
+authors: []
 ---
 
-## Overview 
 
-Good frontend development is hard. Scaling frontend development for a large and intricate product can be even more challenging. In this post, I'll detail how I tackled 'frontend monoliths' by breaking them down into smaller, more manageable pieces. This architectural approach can ramp up effectiveness and efficiency.
 
-### **What Are Micro Frontends?**
+# Navigating the Digital Wave: Transforming Tourism with Strategic Marketing ✈️
 
-![Micro Frontends](/static/images/Untitled-1.png)
+In a world that's becoming increasingly digital, it's no surprise that the tourism industry has wholeheartedly embraced the power of digital marketing. Travelers are no longer flipping through travel brochures; they're searching for their dream destinations online, and tour operators and hospitality businesses are competing for their attention. To stand out in this crowded digital landscape, you need a strategic approach. Let's explore how digital marketing is revolutionizing the tourism industry and the key strategies to reach your audience effectively.
 
-- The essence of micro frontends is to extrapolate the principles of microservices to the frontend realm.
-- The goal is to divide the frontend into a series of autonomously deployable and loosely coupled applications (micro frontends) that combine to form a singular frontend application.
-- For a swift application development process, it's practical to envision the micro frontends as distinct vertical segments (referred to as 'verticals') of a web app. Each "vertical" oversees a single business aspect or use case, such as 'Profile', 'Catalog', or 'Order'. Every vertical has its distinct presentation layer, service layer (microservice), persistence layer, and a dedicated database.
+## Social Media Marketing 📱
+Social media platforms are no longer just a place for sharing memes and food pictures. They have become the digital playground for travel enthusiasts. From Instagram-worthy snapshots to Facebook groups dedicated to wanderlust, social media is at the forefront of the tourism industry. Your marketing strategy should involve engaging content, stunning visuals, and storytelling that ignites wanderlust. Use the power of hashtags like #Wanderlust and #TravelGoals to increase your reach and connect with travelers worldwide.
 
-### Why Micro Frontends?
+## Search Engine Optimization (SEO) 🔍
 
-![Why Micro Frontends](/static/images/Untitled-2.png)
+When travelers think about their next adventure, the first thing they do is turn to search engines like Google. To be found by potential customers, your website must be optimized for search engines. Target keywords such as "best travel destinations," "affordable travel packages," and "luxury accommodations" to appear in the search results. SEO is a long-term strategy that can significantly boost your online visibility and bring more traffic to your website.
 
-I adopted the Micro-Frontend architecture to navigate the complexities that arise with expansive SPA frontend development. Here's why:
+## Content Marketing 📝
 
-- **Single responsibility:** This approach allows for focused component development. You can concentrate on analytics, performance, and each specific functionality without distractions.
-- **Reusability:** Code can be utilized in various places. Once a component is constructed and deployed, it becomes reusable across different contexts.
-- **Technology agnosticism:** Micro Frontends are technologically independent. You can mix and match components from different stacks (like JavaScript, React, Vue, Angular). Deployment and build processes remain hassle-free.
-- **Learning Curve:** It's easier to grasp smaller applications than to wrestle with a mammoth codebase that spans thousands of lines.
-- **Domain-Driven Architecture:** The main catalyst behind both Micro-Frontends and Microservices is to enable vertical domain ownership. By moving from a monolithic setup to Microservices, companies can distribute development responsibilities and establish clear ownership boundaries. Micro-Frontends further this by ensuring each domain retains comprehensive component control.
+Content rules the digital marketing realm. Creating high-quality, informative, and engaging content can position your brand as an authority in the travel industry. Consider writing blog posts, travel guides, and informative articles about various destinations. Infuse them with relevant keywords and share them on your website and social media platforms. Don't forget to leverage user-generated content to build trust and authenticity among your audience.
 
-## Monoliths and its limitations:
+## Online Travel Booking 💻
 
-![Monoliths](/static/images/Untitled-3.png)
+Gone are the days of flipping through travel brochures and making phone calls to book vacations. Online booking platforms have revolutionized the tourism industry. Make sure your website or booking portal is user-friendly, mobile-responsive, and secure. Encourage customers to leave reviews and ratings, and offer incentives for direct bookings. This can enhance customer loyalty and reduce dependency on third-party booking platforms.
 
-Software mainly consists of three layers:
+## Influencer Marketing 👩💼👨💼
 
-1. **Frontend Layer:** The frontend can be in the form of a user-interface which means it can be a Mobile App, a Web App or it can be in other forms as well. It's anything which helps the end-user to interact with the system.
-2. **Backend Layer:** The backend is the part of a system where the business logic resides. It's the core of the software.
-3. **Storage Layer:** Storage layer is the part of software where all the application-related data is stored. It's the place from where the application fetches data.
+Collaborating with travel influencers can expose your brand to a broader audience. Identify influencers whose values align with your brand and whose followers match your target demographic. Their endorsement can help build trust and credibility, ultimately leading to more bookings. Embrace the power of influencer marketing and watch your brand soar to new heights.
 
-In this setup, instead of a single Monolith, the frontend and backend are two separate monoliths. These come with their own scalability issues. For a clearer understanding, check out these insightful articles: [Monoliths vs Micro-frontends](https://medium.com/@makewell876/micro-frontends-architecture-for-dummies-25a2d9f49424) and [Monoliths vs Microservices](https://medium.com/transparent-data-eng/monoliths-vs-microservices-benefits-and-drawbacks-a-comparision-9e7a462b8e3a).
+## Email Marketing 📧
 
-## Best Practices to Deploy Micro Frontend
+Email marketing remains a powerful tool for the tourism industry. Collect email addresses from website visitors and past customers. Send personalized offers, travel tips, and exclusive deals to keep your audience engaged. Ensure your emails are visually appealing and mobile-friendly, as most people check their emails on their smartphones.
 
-Adopting and implementing the Micro Frontend architecture requires adherence to certain standards to reap the maximum benefits. Here are the five best practices:
+## Data Analytics 📊
 
-- **Browser integration:** Browser integration for different web components is essential for creating frontend fragments that can be imported into the application. This practice facilitates a seamless merging of the building process and its visual representation.
-- **Building Custom Elements:** Web components comprise element lifecycles callbacks responsible for defining the component behavior. Creating Custom elements for these lifecycle callbacks – Attached Callback, Attribute Changed Callback, Created Callback, and Detached Callback – using custom HTML tags, CSS styles, and scripts are essential.
-- **Creating Shadow DOMs:** DOM is the API for a Micro Frontend application. Creating a shadow DOM by combining HTML, JavaScript, and CSS within a web component segregated from the main document DOM is beneficial.
-- **The Right Frontend Structure:** The structure of Micro Frontends is crucial. Elements such as the framework, isolation techniques, and communication between modules matter. A meta-framework of Single-SPA is ideal for combining different frameworks. Similarly, the use of Bower and NPM components helps in developing shared functionality applications. Communication via a shared events bus is also vital when each component is built on an independent framework.
-
-## Micro-frontend architecture and react with web components
-
-### Introducing Project X
-
-![Project X](/static/images/Untitled-4.png)
-
-Project X is a prominent Property Listings platform in Singapore, known for its architecture with multiple frontend frameworks and backends. Agents create profiles and share listings of available properties, while users connect with agents to buy or rent properties. I worked on the Agent Performance Management system where users can rate agents and provide feedback.
-
-### Integrating APM into Project X
-
-A basic POC of the performance system had been developed, and integration was my challenge. There's a web application with various frontend frameworks inside a containerized application serving all the webpages.
-
-Project X is divided into three different web applications: admin, agents, and end-users. All these web applications have different global Bootstrap versions with Bootstrap 2, 3, and 4, respectively. Initially, Bootstrap 5 was chosen during development since the specific Bootstrap versions of the web applications were not accessible.
-
-The task was to integrate a single React application according to user roles into a placeholder within its respective web applications.
-
-![Integration](/static/images/Untitled-5.png)
-
-Different Bootstrap versions are used throughout the website, but the React application uses the latest Bootstrap 5. This had to be integrated into all three different web applications as per user roles. The mismatch in versions could potentially cause bugs, especially due to the differences and potential race conditions whenever a Bootstrap element is rendered or interacted with.
-
-A challenge was isolating the CSS and JavaScript within the APM application since the environment of the main application (Project X web app) couldn't be controlled. A solution was required to sandbox APM effectively.
-
-The Shadow DOM seemed to be the perfect solution, as it avoids the complications, overhead, and cumbersome markup associated with iframes.
-
-### Isolation of CSS with Shadow DOM
-
-With Shadow DOM, the component was rendered separately and was not affected by any external CSS selectors. The same applied to styles created—they wouldn't affect the parent container.
-
-When using Shadow DOM with React/Webpack, an issue was with the style-loader. By default, every CSS imported by JS files is injected into the `<head>` tag of the page. Since the Shadow DOM isn't rendered as part of the original page, the styles wouldn't take effect. Solutions include using the to-string-loader and creating a `<style>` tag inside the Shadow DOM, or configuring style-loader to inject the styles into the Shadow DOM dynamically.
-
-## Integration Approaches
-
-Given the fairly loose definition of a micro-frontend, there are many approaches. Generally, there's a micro frontend for each page in the application, and there's a single container application which:
-
-- Renders common page elements such as headers and footers.
-- Addresses cross-cutting concerns like authentication and navigation.
-- Brings the various micro frontends together onto the page and tells each micro frontend when and where to render itself.
-
-This post delves into Run-time integration via Web Components.
-
-### **Run-time Integration via Web Components**
-
-This approach is flexible. Each micro frontend is included on the page using a custom element. Upon load, the `<script>` tag will be called, inserting all necessary HTML, CSS, and JavaScript into the custom element. Each micro frontend defines an HTML custom element for the container to instantiate.
-
-```jsx
-let host = "agent-overview",
-let container = import(`./components/feedback-section/containers/feedbackContainer`);
-
-initShadowDOMAndRender(host, container);
-```
-The code defines a custom web component, creates a shadow Root, and appends all required styles and JavaScript within the shadow Root for the React application.
-
-```jsx
-import { Suspense } from 'react';
-import { render } from 'react-dom';
-import { cacheName } from './componentPath';
-
-const getClass = (hostId, Element) => {
-    const shadowRoots = new WeakMap();
-
-    return (
-        class InitiateClass extends HTMLElement {
-            constructor() {
-                super();
-                const mountPoint = document.createElement('span');
-                const shadowRoot = this.attachShadow({ mode: 'closed' }).appendChild(mountPoint);
-                shadowRoots.set(this, shadowRoot);
-
-                render(<Suspense fallback={<div>Loading...</div>}>
-                    <>
-                        <div id="agent-perf-mgmt">
-                            <div id="apm-modal-placeholder" />
-                            <Element />
-                        </div>
-                    </>
-                </Suspense>, mountPoint);
-            }
-
-            connectedCallback() {
-                const shadowRoot = shadowRoots.get(this);
-
-                window[cacheName][hostId] = shadowRoot
-
-                // Shadow DOM doesn't allow injecting styles from external sources. Need to import it right here.
-                let style = document.createElement('style');
-                style.type = 'text/css';
-                shadowRoot.appendChild(style);
-                let bootstrapStyle = require('!!raw-loader!sass-loader!../../public/css/custom-bootstrap.scss').default;
-                let moduleStyle = require('!!raw-loader!sass-loader!../../public/css/index.scss').default;
-
-                style.appendChild(document.createTextNode(moduleStyle));
-                style.appendChild(document.createTextNode(bootstrapStyle));
-
-                let scriptDOM = document.createElement('script');
-                let bootstrapScript = require('!!raw-loader!../../public/js/bootstrap.bundle.min.js').default;
-                scriptDOM.appendChild(document.createTextNode(bootstrapScript));
-                shadowRoot.appendChild(scriptDOM);
-
-            }
-        }
-    )
-
-}
-
-const initShadowDOMandRender = (hostId, Element) => {
-    const InitiateClass = getClass(hostId, Element);
-    customElements.define(hostId, InitiateClass);
-}
-
-export default initShadowDOMandRender;
-```
-
-## How It Was Achieved
-
-To implement Micro Frontends in "Project X," I maintained the standard `create-react-app` folder structure but customized the build scripts and Webpack configurations to support the required build process.
-
-Within the `src` folder, various micro frontends were organized, each with its `index.js` file. This file imported the main root of the micro frontend and injected JavaScript into its custom element in `index.html` using the `initShadowDOMAndRender` function. This function created a shadow DOM inside the custom element and injected all the necessary JavaScript and styles.
-
-The frontend name and path of the container are specified in `build-utils/build-helpers/getFrontends.js` during the build process. This name must match the custom element defined in `index.html`.
+Digital marketing strategies need continuous fine-tuning. Monitor key performance indicators (KPIs) like website traffic, conversion rates, and social media engagement. Use the data to make informed decisions and optimize your strategies for maximum reach and impact. Stay up-to-date with the latest trends and technologies in the digital marketing world to stay ahead of the competition.
 
 ## Conclusion
 
-Micro Frontends are revolutionizing frontend development, offering teams the flexibility and scalability needed to tackle complex projects. By breaking down monolithic frontends into smaller, independently deployable components, development teams can work efficiently, reuse code, and maintain a clear focus on their specific responsibilities. The adoption of Micro Frontends, coupled with the right architectural choices, can lead to a more streamlined and collaborative development process.
-
-With the proper practices and integration techniques, Micro Frontends can empower your development teams to create scalable, maintainable, and feature-rich applications while avoiding the limitations of monolithic architectures. Embrace Micro Frontends, and take your frontend development to the next level!
-
-Now, start breaking down your monolithic frontend and embrace the future of web development with Micro Frontends! 🚀
+In conclusion, the future of the tourism industry is digital, and it's imperative to keep up with the latest trends and technologies. By incorporating these strategies into your digital marketing plan, you can reach a wider audience, engage with travelers, and create unforgettable experiences. The world of digital marketing in tourism is constantly evolving. Adapt, innovate, and watch your brand soar to new heights in the digital era. 🌟✈️
