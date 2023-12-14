@@ -5,7 +5,7 @@ tags: []
 draft: false
 summary: "\n"
 images:
-  - https://media.licdn.com/dms/image/D5612AQHRzKcMCF6FUw/article-cover_image-shrink_720_1280/0/1697824672572?e=1707955200&v=beta&t=ezFTO0dGaPNLBm08v40ik_ZdR4gGxUj7EKXUs4GrcSY
+  - /static/images/untitled-design-1-.png
 authors: []
 ---
 
